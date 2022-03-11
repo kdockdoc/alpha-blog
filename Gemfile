@@ -74,6 +74,6 @@ group :test do
   
 end
 
-gem "production" do
+gem "production"
 gem "pg"
 end
