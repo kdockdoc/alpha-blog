@@ -76,4 +76,3 @@ end
 
 gem "production"
 gem "pg"
-end
